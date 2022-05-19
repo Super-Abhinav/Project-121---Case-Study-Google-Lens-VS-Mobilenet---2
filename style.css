@@ -1,0 +1,150 @@
+p{
+    color: red;
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+
+span{
+    letter-spacing: 1px;
+}
+
+#mobilenet{
+    letter-spacing: 2px;
+}
+
+.copy_right_footer{
+    font-family: 'Roboto Slab', serif;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-weight: 600;
+    background-color: rgb(224, 218, 218);
+    line-height: 3;
+    text-align: center;
+}
+
+.img1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 370px;
+    width: 350px;
+    border-radius: 20px;
+}
+
+.img2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 385px;
+    width: 350px;
+    border-radius: 20px;
+}
+
+.img3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 370px;
+    width: 350px;
+    border-radius: 20px;
+}
+
+.img4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    width: 350px;
+    border-radius: 20px;
+}
+
+.img5{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 170px;
+    width: 500px;
+    border-radius: 20px;
+}
+
+.img6{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 250px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+.img7{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 425px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+.img8{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 220px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+.img9{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 295px;
+    width: 350px;
+    border-radius: 20px;
+}
+
+.img10{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 325px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+b{
+    color: purple;
+}
+
+.first,.second{
+    background-color: white;
+    border-radius: 20px;
+    line-height: 2.3;
+    font-size: 15px;
+}
+
+.test_image_and_result{
+    margin-top: 15px;
+    background-color: rgb(155,153,153);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width: 75%;
+    margin-left: 160px;
+    margin-bottom: 15px;
+}
+
+.white{
+    color: white;
+}
+
+span{
+    color: red;
+    font-weight: bold;
+}
+
+.google_lens{
+    color: black;
+    font-weight: 100;
+}
+
+h4{
+    color: white;
+    font-weight: bold;
+}
+
+.bottom1{
+    font-weight: bold;
+    font-size: 17px;
+    width: 50%;
+}
